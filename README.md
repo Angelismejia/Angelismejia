@@ -69,7 +69,7 @@ public class AngelisMejia
 
 </p>
 
-![Angelis22](https://github.com/user-attachments/assets/58c51e58-178c-4e85-aee1-94135b594e6b)
+![Angelis2](https://github.com/user-attachments/assets/9140ae4b-b70c-48c4-b986-7c1080dd6873)
 
 ---
 
