@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+ <!-- ================= HEADER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E6,100:C084FC&height=210&section=header&text=Hi%20👋%20I'm%20Candy%20Angelis%20Mejía%20🎀&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
