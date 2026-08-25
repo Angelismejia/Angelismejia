@@ -36,7 +36,11 @@ public class AngelisMejia
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Angelismejia&theme=radical"/>
+  <img
+    height="170em"
+    src="https://streak-stats.demolab.com/?user=Angelismejia&theme=radical"
+    alt="Racha de GitHub de Angelismejia"
+  />
 </p>
 
 <p align="center">
