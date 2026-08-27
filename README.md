@@ -1,8 +1,8 @@
- <!-- ================= HEADER ================= -->
+<!--================= HEADER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E6,100:C084FC&height=210&section=header&text=Hi%20👋%20I'm%20Candy%20Angelis%20Mejía%20🎀&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
+ </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=650&lines=Software+Development+Student;Aspiring+.NET+Backend+Developer;Learning+C%23+%26+ASP.NET;Future+Full+Stack+Developer"/>
@@ -73,7 +73,7 @@ public class AngelisMejia
 
 </p>
 
-![Angelis2](https://github.com/user-attachments/assets/9140ae4b-b70c-48c4-b986-7c1080dd6873)
+![Angelis22](https://github.com/user-attachments/assets/58c51e58-178c-4e85-aee1-94135b594e6b)
 
 ---
 
