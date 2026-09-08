@@ -85,10 +85,18 @@ public class AngelisMejia
 
 ## 📬 Contact Me
 
-- 📧 **Email:** [angelismejia06@gmail.com](mailto:angelismejia06@gmail.com)
-<a href="https://github.com/user-attachments/files/31980643/Curriculum-AngelisM.2.1.pdf" download>
-  📄 Descargar mi CV
+<p align="center">
+
+<a href="mailto:angelismejia06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a href="https://github.com/user-attachments/files/31980643/Curriculum-AngelisM.2.1.pdf">
+  <img src="https://img.shields.io/badge/Download%20CV-C084FC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+</p>
+
 ---
 
 <p align="center">
